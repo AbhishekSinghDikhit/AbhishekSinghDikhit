@@ -1,11 +1,11 @@
-Hi 👋, I'm Abhishek Singh Dikhit
-A passionate [Your Role, e.g., Machine Learning Enthusiast] crafting innovative AI-driven solutions
+## Hi 👋, I'm Abhishek Singh Dikhit 
+- A passionate Machine Learning Enthusiast crafting innovative AI-driven solutions
 🚀 About Me
 
-🌱 I’m a [Your Skill, e.g., Results-driven AI Engineer] with hands-on experience in [Your Expertise, e.g., AI-powered applications and intelligent agents].
-💻 Proficient with [Your Tools, e.g., TensorFlow, PyTorch, and Hugging Face].
-🎯 Comfortable with both research and deployment; blending the power of LLMs, Deep Learning, and scalable systems.
-🌟 Currently exploring: [Your Interests, e.g., MLOps, LLM tuning, and Stable Diffusion-based GenAI models].
+- 🌱 I’m a [Your Skill, e.g., Results-driven AI Engineer] with hands-on experience in [Your Expertise, e.g., AI-powered applications and intelligent agents].
+- 💻 Proficient with [Your Tools, e.g., TensorFlow, PyTorch, and Hugging Face].
+- 🎯 Comfortable with both research and deployment; blending the power of LLMs, Deep Learning, and scalable systems.
+- 🌟 Currently exploring: [Your Interests, e.g., MLOps, LLM tuning, and Stable Diffusion-based GenAI models].
 
 💻 Tech Stack
 
