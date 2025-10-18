@@ -2,25 +2,25 @@
 - A passionate Machine Learning Enthusiast crafting innovative AI-driven solutions
 🚀 About Me
 
-- 🌱 I’m a [Your Skill, e.g., Results-driven AI Engineer] with hands-on experience in [Your Expertise, e.g., AI-powered applications and intelligent agents].
-- 💻 Proficient with [Your Tools, e.g., TensorFlow, PyTorch, and Hugging Face].
+- 🌱 I’m a LLM Engineer with hands-on experience in AI-powered applications and intelligent agents, Agentic AI frameworks like langchain.
+- 💻 Proficient with TensorFlow, PyTorch, and Hugging Face.
 - 🎯 Comfortable with both research and deployment; blending the power of LLMs, Deep Learning, and scalable systems.
-- 🌟 Currently exploring: [Your Interests, e.g., MLOps, LLM tuning, and Stable Diffusion-based GenAI models].
+- 🌟 Currently exploring: GenAI, LLM tuning.
 
-💻 Tech Stack
+  
+### 💻 Tech Stack
+- Python
+- NLP, GenAI
+- ML, LLM,
+- Tensorflow, Pytorch
 
 🌟 Projects
 StudifyAI
 
 A a question&answer, question paper generator, topic summariser tool powered by AI.
-🎯 Reduced manual effort by [Percentage, e.g., 80%] - generates papers from syllabus PDFs in under [Time, e.g., 5 minutes].
-🛠️ Tech: [Tech Used, e.g., Flask + Gemini API] + Deployment on [Platform, e.g., Vercel] with [Performance, e.g., 99.5% uptime].
+🎯 Reduced manual effort by  80% - generates papers from syllabus PDFs in under 2 minutes.
+🛠️ Tech: FastAPI + Gemini API + Deployment on Vercel and Render .
 
-Multilingual Chatbot usign LangChain
-
-A [Project Description, e.g., data preprocessing tool].
-🎯 [Achievement, e.g., Improved data pipeline efficiency by 60%].
-🛠️ Tech: [Tech Used, e.g., Python + Pandas] + Deployment on [Platform, e.g., Netlify].
 
 📫 Let's Connect
 
